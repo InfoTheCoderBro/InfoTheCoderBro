@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonu</h1>
 <h3 align="center">A problem solver who loves turning ideas into reality with code.</h3>
 
-![github-01](https://github.com/user-attachments/assets/fb6958b4-98f9-4b4a-8502-5b9893671aeb)
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=infothecoderbro&label=Profile%20views&color=0e75b6&style=flat" alt="infothecoderbro" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infothecoderbro" alt="infothecoderbro" /></a> </p>
-
 - 🔭 I’m currently working on **Loading**
 
 - 🌱 I’m currently learning **Bug Fixed**
